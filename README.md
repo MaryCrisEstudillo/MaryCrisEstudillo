@@ -1,6 +1,6 @@
 
 **MaryCrisEstudillo/MaryCrisEstudillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://github.com/MaryCrisEstudillo/blog-app/blob/main/Web%201920%20%E2%80%93%201.png" alt="image">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
