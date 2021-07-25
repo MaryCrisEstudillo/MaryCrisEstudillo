@@ -1,11 +1,14 @@
 <img src="https://github.com/MaryCrisEstudillo/blog-app/blob/main/Web%201920%20%E2%80%93%201.png" alt="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryCrisEstudillo&theme=dark&langs_count=10&layout=compact" alt="">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryCrisEstudillo&theme=radical" alt=""/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaryCrisEstudillo&theme=radical" alt="MaryCris" /></p>
 
-- 💻 I’m currently working on Ruby on Rails Projects
-- 🚀 I’m currently completing my boothcamp as Software Engineer in Avion School
-- 💬 lets talk about design and web dev industry
-- 📨 How to reach me: estudillomarycris@gmail.com
-- 🎨 Fun fact: I do watercolor portraits and sew dresses as hobby
+##
+<p>- 💻 I’m currently working on Ruby on Rails Projects</p>
+<p>- 🚀 I’m currently completing my boothcamp as Software Engineer in Avion School</p>
+<p>- 💬 lets talk about design and web dev industry</p>
+<p>- 📨 How to reach me: estudillomarycris@gmail.com</p>
+<p>- 🎨 Fun fact: I do watercolor portraits and sew dresses as hobby</p>
+
 
 ## Design tools
 <img alt="XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/> <img alt="Illusrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> <img alt="Gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
